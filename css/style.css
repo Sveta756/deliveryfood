@@ -610,6 +610,65 @@ footer {
         .restaurants-heading {
             flex-wrap: wrap;
         }
+    
+        .search-input  {
+            margin-left: 0;
+            width: 100%;
+        } 
+
+        .food-name {
+            font-size: 14px;
+            line-height: 24px;
+        }
+
+        .modal-dialog {
+            padding: 20px 25px;
+        }
+        .modal-header {
+            margin-bottom: 25px;
+        }
+
+        .modal-title {
+            font-size: 30px;
+        }
+
+        .food-price {
+            margin-right: 12px;
+            font-size: 16px;
+            line-height: 26px;
+        }
+
+        .counter-button {
+            width: 19px;
+            height: 22px;
+        }
+
+        .counter {
+            font-size: 14px;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+        .food-row {
+            margin-bottom: 10px;
+        }
+
+        .pricetag {
+            font-size: 16px;
+            margin-bottom: 15px;
+            padding: 10px;
+        }
+
+        .modal-footer {
+            flex-direction: column;
+        }
+
+        .modal-body {
+            margin-bottom: 22px;
+        }
+
+        .font {
+            font-size: 14px;
+        }
 }
 
 
